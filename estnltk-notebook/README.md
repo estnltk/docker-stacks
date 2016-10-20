@@ -7,6 +7,8 @@ To run:
 
 docker run -d -p 8888:8888 estnltk/estnltk-notebook
 ```
+Then open your browser and navigate to `localhost:8888`
+
 
 ##for developers:
 To build and upload to https://hub.docker.com/r/estnltk/
