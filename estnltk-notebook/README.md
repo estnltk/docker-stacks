@@ -19,5 +19,4 @@ docker push  estnltk/estnltk-notebook:latest
 
 ### TODO
 
-* remove python 2 kernel from the image
 * prepare and schedule nightly builds/pushes
